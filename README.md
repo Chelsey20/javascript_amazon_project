@@ -10,7 +10,7 @@ A fully responsive E-Commerce Clone built with JavaScript, HTML, and CSS, featur
 
 ## 🔗 Live Demo
 Check out the live version of the project here: 
-- 
+- https://chelsey20.github.io/javascript_amazon_project/
 
 ## Tech Stack 🛠️
 - JavaScript (ES6+)
