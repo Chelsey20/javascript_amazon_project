@@ -1,11 +1,30 @@
-Main Page
-![image](https://github.com/user-attachments/assets/dfd90a86-f540-4faf-939c-370aa609ed8d)
-Checkout Page
-![image](https://github.com/user-attachments/assets/4f2bd9fe-7057-467e-8dba-ee18aa9fa9d9)
-Orders Page
-![image](https://github.com/user-attachments/assets/f03b2c9f-763d-473b-8112-80ed9c1c34d4)
-Tracking Page
-![image](https://github.com/user-attachments/assets/8eae93a8-1582-4d50-9a55-fec6de4bde96)
+# E-Commerce Clone 🛒
+A fully responsive E-Commerce Clone built with JavaScript, HTML, and CSS, featuring automated test cases using the Jasmine Testing Framework. This project was developed as part of a comprehensive JavaScript full-course learning, focusing on core web development principles, UI/UX design, and testing methodologies.
 
+## Features 🚀
+- Cloned UI Design with HTML & CSS of Amazon e-commerce website
+- Dynamic Functionality powered by JavaScript
+- Automated Testing with Jasmine for reliable performance
+- Fully Responsive across different devices
+- Enhanced User Experience with interactive elements
+
+## 🔗 Live Demo
+Check out the live version of the project here: 
+- 
+
+## Tech Stack 🛠️
+- JavaScript (ES6+)
+- HTML5 & CSS3
+- Jasmine (for testing)
+
+## How to Run the Project 🖥️
+Clone this repository:
+- bash
+- Copy
+- Edit
+- git clone https://github.com/Chelsey20/ecommerce-clone.git
+
+## Running Tests ✅
+To run automated tests with Jasmine, open **tests.html** in your browser.
 
 
